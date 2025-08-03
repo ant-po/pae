@@ -1,0 +1,1 @@
+-- SQLite schema for trade logs and signals

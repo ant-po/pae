@@ -1,0 +1,5 @@
+# Requirements file for venv setup
+pandas
+duckdb
+ccxt
+requests
